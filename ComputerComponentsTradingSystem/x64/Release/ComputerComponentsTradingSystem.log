@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\UTeM\BITU 2913 Bengkel 1\Coding\ComputerComponentsTradingSystem\ComputerComponentsTradingSystem\main.cpp(1512,25): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+D:\UTeM\BITU 2913 Bengkel 1\Coding\ComputerComponentsTradingSystem\ComputerComponentsTradingSystem\main.cpp(1513,25): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+  Generating code
+  2 of 470 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ComputerComponentsTradingSystem.vcxproj -> D:\UTeM\BITU 2913 Bengkel 1\Coding\ComputerComponentsTradingSystem\x64\Release\ComputerComponentsTradingSystem.exe
